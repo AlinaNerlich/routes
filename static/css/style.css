@@ -1,0 +1,13 @@
+body{
+    font-family: arial;
+}
+h1{
+    color: red;
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
